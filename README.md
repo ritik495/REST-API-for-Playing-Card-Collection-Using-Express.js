@@ -1,1 +1,1 @@
-# REST-API-for-Playing-Card-Collection-Using-Express.js
+# REST-API-for-Playing-Card-Collection-Using-Express.js<img width="900" height="500" alt="REST_API_Output_Simulation (1)" src="https://github.com/user-attachments/assets/498de9ea-1ff3-4a49-af16-e2837536bfe8" />
